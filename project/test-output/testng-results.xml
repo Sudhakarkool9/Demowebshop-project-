@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[sucessfully browser is opend..]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully  registrationPage is opend......]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully  enterd registerd deatils ......]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully submited....]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully opend loginpage....]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully navigate to home page ....]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully selected computer categiry ......]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully selected desktop product .......]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully product is added to cart...]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully shipped to cart...]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully checked..]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully checkout......]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully completed building adress...........]]>
+    </line>
+    <line>
+      <![CDATA[shipping address......]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully completed shipping method...]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully completed payment method...]]>
+    </line>
+    <line>
+      <![CDATA[payment information....]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully completed conformorder...]]>
+    </line>
+    <line>
+      <![CDATA[Thank You....]]>
+    </line>
+    <line>
+      <![CDATA[sucessfully logout..........]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-04-12T10:46:17 IST" name="Suite" finished-at="2020-04-12T10:48:30 IST" duration-ms="133248">
+    <groups>
+    </groups>
+    <test started-at="2020-04-12T10:46:17 IST" name="Test1" finished-at="2020-04-12T10:46:44 IST" duration-ms="27552">
+      <class name="tcpackage.tcregister">
+        <test-method is-config="true" signature="open_application_and_click_on_register_link()[pri:0, instance:tcpackage.tcregister@1afd44cb]" started-at="2020-04-12T10:46:17 IST" name="open_application_and_click_on_register_link" finished-at="2020-04-12T10:46:41 IST" duration-ms="23877" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[sucessfully browser is opend..]]>
+            </line>
+            <line>
+              <![CDATA[sucessfully  registrationPage is opend......]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- open_application_and_click_on_register_link -->
+        <test-method signature="the_user_enter_details_and_click_on_register()[pri:0, instance:tcpackage.tcregister@1afd44cb]" started-at="2020-04-12T10:46:41 IST" name="the_user_enter_details_and_click_on_register" finished-at="2020-04-12T10:46:42 IST" duration-ms="1042" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[sucessfully  enterd registerd deatils ......]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- the_user_enter_details_and_click_on_register -->
+        <test-method is-config="true" signature="the_system_navigates_to_login_page()[pri:0, instance:tcpackage.tcregister@1afd44cb]" started-at="2020-04-12T10:46:42 IST" name="the_system_navigates_to_login_page" finished-at="2020-04-12T10:46:44 IST" duration-ms="2581" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[sucessfully submited....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- the_system_navigates_to_login_page -->
+      </class> <!-- tcpackage.tcregister -->
+    </test> <!-- Test1 -->
+    <test started-at="2020-04-12T10:46:45 IST" name="Test2" finished-at="2020-04-12T10:48:30 IST" duration-ms="105364">
+      <class name="tcpackage.tclogin">
+        <test-method is-config="true" signature="open_application_and_click_on_Login_link()[pri:0, instance:tcpackage.tclogin@1b7cc17c]" started-at="2020-04-12T10:46:45 IST" name="open_application_and_click_on_Login_link" finished-at="2020-04-12T10:47:10 IST" duration-ms="25572" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[sucessfully opend loginpage....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- open_application_and_click_on_Login_link -->
+        <test-method signature="the_user_enters_the_valid_username_and_valid_password_and_click_submit()[pri:0, instance:tcpackage.tclogin@1b7cc17c]" started-at="2020-04-12T10:47:10 IST" name="the_user_enters_the_valid_username_and_valid_password_and_click_submit" finished-at="2020-04-12T10:47:13 IST" duration-ms="3148" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[sucessfully navigate to home page ....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- the_user_enters_the_valid_username_and_valid_password_and_click_submit -->
+        <test-method is-config="true" signature="the_system_naviagates_to_HOME_page()[pri:0, instance:tcpackage.tclogin@1b7cc17c]" started-at="2020-04-12T10:47:13 IST" name="the_system_naviagates_to_HOME_page" finished-at="2020-04-12T10:48:30 IST" duration-ms="76639" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[sucessfully selected computer categiry ......]]>
+            </line>
+            <line>
+              <![CDATA[sucessfully selected desktop product .......]]>
+            </line>
+            <line>
+              <![CDATA[sucessfully product is added to cart...]]>
+            </line>
+            <line>
+              <![CDATA[sucessfully shipped to cart...]]>
+            </line>
+            <line>
+              <![CDATA[sucessfully checked..]]>
+            </line>
+            <line>
+              <![CDATA[sucessfully checkout......]]>
+            </line>
+            <line>
+              <![CDATA[sucessfully completed building adress...........]]>
+            </line>
+            <line>
+              <![CDATA[shipping address......]]>
+            </line>
+            <line>
+              <![CDATA[sucessfully completed shipping method...]]>
+            </line>
+            <line>
+              <![CDATA[sucessfully completed payment method...]]>
+            </line>
+            <line>
+              <![CDATA[payment information....]]>
+            </line>
+            <line>
+              <![CDATA[sucessfully completed conformorder...]]>
+            </line>
+            <line>
+              <![CDATA[Thank You....]]>
+            </line>
+            <line>
+              <![CDATA[sucessfully logout..........]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- the_system_naviagates_to_HOME_page -->
+      </class> <!-- tcpackage.tclogin -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

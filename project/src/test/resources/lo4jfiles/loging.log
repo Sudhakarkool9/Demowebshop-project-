@@ -1,0 +1,12 @@
+2020-04-11 15:16:51 INFO  tcregister:65 - opening browser
+2020-04-11 15:16:54 INFO  tcregister:71- registrationpage opened
+2020-04-11 15:16:55 INFO  tcregister:40 - entered Firstname
+2020-04-11 15:16:55 INFO  tcregister:42 - entered lastname
+2020-04-11 15:16:56 INFO  tcregister:44 - entered email
+2020-04-11 15:16:56 INFO  tcregister:46 - entered password
+2020-04-11 15:17:09 INFO  tclregister:84 - submit is sucessfully completed
+2020-04-11 15:19:30 INFO  tclogin:59 - opening browser
+2020-04-11 15:19:32 INFO  tcrlogin:43 - entered email
+2020-04-11 15:19:33 INFO  tclogin:45- entered password
+2020-04-11 15:19:44 INFO  tclogin:65 - submit is sucessfully completed
+

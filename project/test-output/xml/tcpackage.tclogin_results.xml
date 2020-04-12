@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test2"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.148">
+  <properties />
+  
+  
+            <testcase name="the_user_enters_the_valid_username_and_valid_password_and_click_submit" time="3.148" classname="tcpackage.tclogin" />
+      
+</testsuite>
